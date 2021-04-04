@@ -1,4 +1,4 @@
-![profile](./resources/pfp.jpg =250x250)
+![profile](./resources/pfp_resized.jpg)
 # User Page
 Welcome to my user page!
 ([jump](#cse-110-stuff) to CSE 110 Stuff)
