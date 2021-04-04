@@ -27,6 +27,7 @@ Besides projects created for courses I've taken, I don't really have any notewor
     
 **As most students say here at UCSD:**  
 > Start early, Start often  
+  
 which I try to practice, but obviously it's [not the easiest](http://gph.is/1rnPFh5) to always stick to this rule.
 
 ## Some Goals
@@ -37,5 +38,5 @@ which I try to practice, but obviously it's [not the easiest](http://gph.is/1rnP
 - [ ] Make some projects on Github/contribute to other projects
   
 ## CSE 110 Stuff
-Screenshot of using git/command line: [screenshot for git](./screenshots/Lab%201%20Commands.png)
+Screenshot of using git/command line: [screenshot for git](./screenshots/Lab%201%20Commands.png)  
 Screenshot of version control through VSCode: [screenshot for VSCode](./screenshots/VSCode_git.png)
