@@ -18,10 +18,13 @@ Languages learned:
 2. C# (a very small amount)  
 3. Java
 4. Python (also a very small amount)
-5. SystemVerilog
-I have experience debugging using valgrind, GDB, and gprof. (I swear gprof can be so unhelpful sometimes, point in case with allocation being called, but I don't know where it's called the most: 
-` ...std::allocator<char> > const&, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > `. Maybe I just don't understand how to use it well.)
+5. SystemVerilog  
+I have experience debugging using valgrind, GDB, and gprof.  
+(I swear gprof can be so unhelpful sometimes, point in case with allocation being called, but I don't know where it's called the most: 
+` ...std::allocator<char> > const&, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > `. Maybe I just don't understand how to use it well.)  
+  
 Considering that most of my classes have not explicitly had me use an IDE, trying out VSCode for the first time.  
+  
 Besides projects created for courses I've taken, I don't really have any noteworthy projects, at least since highschool. ~~I should really find more motivation to make some.~~  
 
     
