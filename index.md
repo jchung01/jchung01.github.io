@@ -19,6 +19,7 @@ Languages learned:
 3. Java
 4. Python (also a very small amount)
 5. SystemVerilog  
+
 I have experience debugging using valgrind, GDB, and gprof.  
 (I swear gprof can be so unhelpful sometimes, point in case with allocation being called, but I don't know where it's called the most: 
 ` ...std::allocator<char> > const&, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > `. Maybe I just don't understand how to use it well.)  
