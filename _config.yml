@@ -28,7 +28,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 author:
   name: "James Chung"
-  avatar: "/assets/images/bio-photo.jpg"
+  avatar: ""
   bio: ""
   location: "California"
   links:
@@ -36,7 +36,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jchung01"
     - label: "Email"
-      icon: "fab fa-solid fa-envelope"
+      icon: "fas fa-fw fa-solid fa-envelope"
       url: "mailto:jjchung276@gmail.com"
 include: [
   "_pages"
