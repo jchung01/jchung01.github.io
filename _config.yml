@@ -55,6 +55,7 @@ atom_feed:
   hide: true
 
 # Default settings
+date_format: "%B %Y" # TODO: Might want to use custom HTML to make this per-page/post
 defaults:
   # _pages
   - scope:
@@ -63,6 +64,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+      show_date: true
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
