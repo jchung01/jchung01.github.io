@@ -1,3 +1,5 @@
 main:
   - title: "Personal Projects"
     url: /p-projects/
+  - title: "ServeMind POS"
+    url: /servemind/
